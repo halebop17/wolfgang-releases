@@ -1,10 +1,9 @@
-# Mac Parrot releases
+<p align="center">
+  <img src="logo.png" width="128" alt="Mac Parrot">
+</p>
 
-Downloads and the update feed for Mac Parrot, private transcription for Mac.
+<h1 align="center">Mac Parrot</h1>
 
-- **Download:** the newest DMG is under [Releases](../../releases/latest).
-- **Updates:** Mac Parrot checks this repository's latest release
-  (`appcast.xml`) and updates itself. Choose Mac Parrot › Check for Updates…
-  to check now.
-
-Requires macOS 14 Sonoma or later on a Mac with Apple Silicon.
+<p align="center">
+Mac Parrot is a private transcription app for Mac. It turns audio, video and meetings into timestamped transcripts right on your Mac, with speakers, summaries, translation and export to every common format. This repository is for releases only: each release here is offered to every copy of Mac Parrot automatically. Everything else about Mac Parrot is at <a href="https://monokern.app/mac-parrot">monokern.app/mac-parrot</a>.
+</p>
