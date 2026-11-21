@@ -5,5 +5,5 @@
 <h1 align="center">Mac Parrot</h1>
 
 <p align="center">
-Mac Parrot is a private transcription app for Mac. It turns audio, video and meetings into timestamped transcripts right on your Mac, with speakers, summaries, translation and export to every common format. This repository is for releases only: each release here is offered to every copy of Mac Parrot automatically. Everything else about Mac Parrot is at <a href="https://monokern.app/mac-parrot">monokern.app/mac-parrot</a>.
+Mac Parrot is a private transcription app for Mac. It turns audio, video and meetings into timestamped transcripts right on your Mac, with speakers, summaries, translation and export to every common format. This repository is for releases only: each release here is offered to every copy of Mac Parrot automatically.
 </p>
