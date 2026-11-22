@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="wolfgang-logo.png" width="128" alt="Wolfgang">
+  <img src="wolfgang-logo-light.png" width="128" alt="Wolfgang">
 </p>
 
 <h1 align="center">Wolfgang</h1>
